@@ -14,7 +14,10 @@ export default function ContactForm() {
   return (
     <div className="container">
       <h1 className="text-center">Formulario de Contacto</h1>
-      <form>
+      <form
+        method="POST"
+        action="https://formspree.io/itzelmilaneshernandez@gmail.com"
+      >
         <div className="form-group">
           <label>Nombre:</label>
           <input
