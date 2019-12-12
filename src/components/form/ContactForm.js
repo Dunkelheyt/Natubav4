@@ -1,8 +1,6 @@
 import React from "react";
 import useForm from "react-hook-form";
 
-import "./../../scss/forms.scss";
-
 export default function ContactForm() {
   const { register, handleSubmit, watch, errors } = useForm();
   const onSubmit = data => {
