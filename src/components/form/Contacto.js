@@ -19,7 +19,9 @@ class Contacto extends Component {
             fermentum magna sodales dapibus.
           </p>
           <div className="row">
-            <div className="col-sm-12 col-md-6 col-lg-6 rightBorder"></div>
+            <div className="col-sm-12 col-md-6 col-lg-6 rightBorder">
+              <ContactForm />
+            </div>
             <div className="col-sm-12 col-md-6 col-lg-6">
               <RedesSociales />
             </div>
