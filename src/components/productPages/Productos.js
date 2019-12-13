@@ -13,7 +13,7 @@ class Productos extends Component {
               src="https://cdn3.iconfinder.com/data/icons/design-n-code/100/272127c4-8d19-4bd3-bd22-2b75ce94ccb4-512.png"
               alt="x"
             />
-            <h1>Chips</h1>
+            <h1>Chips deshidratados</h1>
           </Link>
           <p>
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -33,7 +33,7 @@ class Productos extends Component {
               src="https://i.imgur.com/meT8DLM.png"
               alt="x"
             />
-            <h1>Mix</h1>
+            <h1>Mix de frutas</h1>
           </Link>
           <p>
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

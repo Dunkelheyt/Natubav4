@@ -12,7 +12,7 @@ class ProductosMix extends Component {
   render() {
     return (
       <div>
-        <h1 className="text-center">Productos Mix</h1>
+        <h1 className="text-center">Productos Mix de frutas</h1>
         <p className="container">
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad

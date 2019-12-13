@@ -4,16 +4,25 @@
     "pageId": "arandano",
     "tipoProducto": "mix",
     "tipoProducto2": "dulce",
-    "productoNombre": "Arándano",
+    "productoNombre": "Mix de frutos secos con Arándano",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/weOpVY2.jpg",
     "imgC": [
-      "https://i.imgur.com/RpJR4vA.jpg",
-      "https://i.imgur.com/RpJR4vA.jpg",
-      "https://i.imgur.com/RpJR4vA.jpg"
+      "https://i.imgur.com/weOpVY2.jpg",
+      "https://i.imgur.com/V59dFWe.png",
+      "https://i.imgur.com/UYmWv4H.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1.7",
+      "contenidoEner": "130.2 kcal",
+      "proteinas": "2.94g.",
+      "grasas": "6.5g. de las cuales 1g. de grasas saturadas",
+      "carbo": "14.1g. de las cuales 12.9g. de azúcares.",
+      "fibra": "1.2g.",
+      "sodio": "9.6mg"
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -25,7 +34,7 @@
     "pageId": "pina",
     "tipoProducto": "mix",
     "tipoProducto2": "dulce",
-    "productoNombre": "Piña",
+    "productoNombre": "Mix de frutos secos con Piña",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/ATuqnMh.jpg",
@@ -33,9 +42,19 @@
       "https://i.imgur.com/ATuqnMh.jpg",
       "https://i.imgur.com/UQ3Npxo.jpg",
       "https://i.imgur.com/BAcLMb9.jpg",
+      "https://i.imgur.com/geh8T0p.png",
       "https://i.imgur.com/r5qrISk.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1.7",
+      "contenidoEner": "140 kcal",
+      "proteinas": "4.5g.",
+      "grasas": "6.5g. de las cuales 1g. de grasas saturadas",
+      "carbo": "16g. de las cuales 14.9g. de azúcares.",
+      "fibra": "1.1g.",
+      "sodio": "15mg"
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -47,16 +66,26 @@
     "pageId": "manzana-kiwi",
     "tipoProducto": "mix",
     "tipoProducto2": "dulce",
-    "productoNombre": "Manzana-Kiwi",
+    "productoNombre": "Mix de frutos secos con Manzana-Kiwi",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/XPCdL0o.jpg",
     "imgC": [
       "https://i.imgur.com/XPCdL0o.jpg",
       "https://i.imgur.com/5sfpQo3.jpg",
+      "https://i.imgur.com/Lx5Cy3e.png",
       "https://i.imgur.com/qBwwOay.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1.7",
+      "contenidoEner": "140 kcal",
+      "proteinas": "4.5g.",
+      "grasas": "6.5g. de las cuales 1g. de grasas saturadas",
+      "carbo": "16g. de las cuales 14.9g. de azúcares.",
+      "fibra": "1.1g.",
+      "sodio": "15mg"
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -68,16 +97,26 @@
     "pageId": "arandano-enchilado",
     "tipoProducto": "mix",
     "tipoProducto2": "dulce",
-    "productoNombre": "Arándano enchilado",
+    "productoNombre": "Mix de frutos secos con Arándano enchilado",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/aaDkSWH.jpg",
     "imgC": [
       "https://i.imgur.com/aaDkSWH.jpg",
       "https://i.imgur.com/Z3Ts7YV.jpg",
+      "https://i.imgur.com/EJN9SSQ.png",
       "https://i.imgur.com/nRACFiR.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1.7",
+      "contenidoEner": "124.2 kcal",
+      "proteinas": "3.7g.",
+      "grasas": "8g. de las cuales 1.2g. de grasas saturadas",
+      "carbo": "8.5g. de las cuales 7g. de azúcares.",
+      "fibra": "1.5g.",
+      "sodio": "35mg"
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -98,7 +137,16 @@
       "https://i.imgur.com/FXgWV5u.jpg",
       "https://i.imgur.com/UYmWv4H.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1.7",
+      "contenidoEner": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
+      "proteinas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
+      "grasas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "carbo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "fibra": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "sodio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -119,7 +167,16 @@
       "https://i.imgur.com/RpJR4vA.jpg",
       "https://i.imgur.com/RpJR4vA.jpg"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1.7",
+      "contenidoEner": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
+      "proteinas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
+      "grasas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "carbo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "fibra": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "sodio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -140,7 +197,16 @@
       "https://i.imgur.com/RpJR4vA.jpg",
       "https://i.imgur.com/RpJR4vA.jpg"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1.7",
+      "contenidoEner": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
+      "proteinas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
+      "grasas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "carbo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "fibra": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "sodio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."

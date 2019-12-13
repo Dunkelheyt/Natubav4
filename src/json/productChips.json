@@ -3,8 +3,8 @@
     "id": "1",
     "pageId": "betabel-enchilado",
     "tipoProducto": "chips",
-    "tipoProducto2": "enchilado",
-    "productoNombre": "Betabel Enchilado",
+    "tipoProducto2": "enchilados",
+    "productoNombre": "Chips deshidratas de Betabel Enchilado",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/RpJR4vA.jpg",
@@ -13,7 +13,16 @@
       "https://i.imgur.com/H0Tys7l.jpg",
       "https://i.imgur.com/s2MpEXl.jpg"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1",
+      "contenidoEner": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
+      "proteinas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
+      "grasas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "carbo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "fibra": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3.",
+      "sodio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -25,15 +34,25 @@
     "pageId": "camote",
     "tipoProducto": "chips",
     "tipoProducto2": "sin chile",
-    "productoNombre": "Camote",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "productoNombre": "Chips deshidratadas de Camote",
+    "desc": "Botana preparada con: camote deshidratado y aceite de soya.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/eBvkYt6.jpg",
     "imgC": [
       "https://i.imgur.com/eBvkYt6.jpg",
+      "https://i.imgur.com/7SoT3XA.png",
       "https://i.imgur.com/V5BDRrs.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1",
+      "contenidoEner": "72 kcal",
+      "proteinas": "0,5g",
+      "grasas": "5g. de las cuales 0.7g. de grasas saturadas",
+      "carbo": "6.3g. de las cuales 3.6g. de azúcares.",
+      "fibra": "0.9g.",
+      "sodio": "5 mg."
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -42,19 +61,29 @@
   },
   {
     "id": "3",
-    "pageId": "camote-con-chile",
+    "pageId": "camote-enchilado",
     "tipoProducto": "chips",
-    "tipoProducto2": "enchilado",
-    "productoNombre": "Camote Enchilado",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "tipoProducto2": "enchilados",
+    "productoNombre": "Chips deshidratadas de Camote Enchilado",
+    "desc": "Botana preparada con: camote deshidratado, aceite de soya y chile.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/qqR2r2P.jpg",
     "imgC": [
       "https://i.imgur.com/qqR2r2P.jpg",
       "https://i.imgur.com/UR3SfeR.jpg",
+      "https://i.imgur.com/ff1QzlV.png",
       "https://i.imgur.com/MUQ4s4I.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1",
+      "contenidoEner": "80 kcal",
+      "proteinas": "0.9g.",
+      "grasas": "5.5g. de las cuales 0.8g. de grasas saturadas",
+      "carbo": "6.4g. de las cuales 3.8g. de azúcares.",
+      "fibra": "0.9g.",
+      "sodio": "33 mg."
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -66,16 +95,26 @@
     "pageId": "chicharron-soya",
     "tipoProducto": "chips",
     "tipoProducto2": "sin chile",
-    "productoNombre": "Chicharrón de soya",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "productoNombre": "Chicharrones de soya",
+    "desc": "Botana preparada con: harina de trigo, harina de soya, aceite de soya, sal yodada y con 0.1% Terbutil Hidroquinona (TBHQ) como antioxidante.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/OEcdj47.jpg",
     "imgC": [
       "https://i.imgur.com/OEcdj47.jpg",
       "https://i.imgur.com/8aIt7tx.jpg",
+      "https://i.imgur.com/ihD3ibk.png",
       "https://i.imgur.com/bmz35WZ.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1",
+      "contenidoEner": "132 kcal",
+      "proteinas": "3.2g.",
+      "grasas": "4.8g. de las cuales 0g. de grasas saturadas",
+      "carbo": "19g. de las cuales 0g. de azúcares.",
+      "fibra": "0.4g.",
+      "sodio": "84mg"
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -86,18 +125,28 @@
     "id": "5",
     "pageId": "chicharron-soya-chile",
     "tipoProducto": "chips",
-    "tipoProducto2": "enchilado",
-    "productoNombre": "Chicharrón con chile",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "tipoProducto2": "enchilados",
+    "productoNombre": "Chicharrones enchilados de soya",
+    "desc": "Botana preparada con: harina de trigo, harina de soya, aceite de soya, sal yodada, 0.1% Terbutil Hidroquinona (TBHQ) como antioxidante y chile.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/afGjiDo.jpg",
     "imgC": [
       "https://i.imgur.com/afGjiDo.jpg",
       "https://i.imgur.com/apCWZTC.jpg",
       "https://i.imgur.com/8AC7age.jpg",
+      "https://i.imgur.com/xjejCN8.png",
       "https://i.imgur.com/tUC4zO4.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1",
+      "contenidoEner": "132 kcal",
+      "proteinas": "3.2g.",
+      "grasas": "4.8g. de las cuales 0g. de grasas saturadas",
+      "carbo": "19g. de las cuales 0g. de azúcares.",
+      "fibra": "0.4g.",
+      "sodio": "84mg"
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -109,16 +158,26 @@
     "pageId": "platano",
     "tipoProducto": "chips",
     "tipoProducto2": "sin chile",
-    "productoNombre": "Plátano",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "productoNombre": "Chips deshidratadas de Plátano",
+    "desc": "Botana preparada con: Plátano deshidratado y aceite de soya.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/DjqIEdN.jpg",
     "imgC": [
       "https://i.imgur.com/DjqIEdN.jpg",
       "https://i.imgur.com/rHdtyHr.jpg",
+      "https://i.imgur.com/rprdg1W.png",
       "https://i.imgur.com/BIt7s02.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1",
+      "contenidoEner": "85 kcal",
+      "proteinas": "0.5g.",
+      "grasas": "5g. de las cuales 0.7g. de grasas saturadas",
+      "carbo": "9g. de las cuales 8g. de azúcares.",
+      "fibra": "0.8g.",
+      "sodio": "1mg"
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -129,18 +188,28 @@
     "id": "7",
     "pageId": "platano-con-chile",
     "tipoProducto": "chips",
-    "tipoProducto2": "enchilado",
-    "productoNombre": "Plátano con chile",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "tipoProducto2": "enchilados",
+    "productoNombre": "Chips deshidratadas de Plátano con chile",
+    "desc": "Botana preparada con: Plátano deshidratado, aceite de soya y chile.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/czcsNzj.jpg",
     "imgC": [
       "https://i.imgur.com/czcsNzj.jpg",
       "https://i.imgur.com/UlHurQp.jpg",
       "https://i.imgur.com/lGcD2ss.jpg",
+      "https://i.imgur.com/nBNMVSb.png",
       "https://i.imgur.com/yWMx118.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1",
+      "contenidoEner": "92 kcal",
+      "proteinas": "0.8g.",
+      "grasas": "5.6g. de las cuales 0.8g. de grasas saturadas",
+      "carbo": "9.2g. de las cuales 8g. de azúcares.",
+      "fibra": "0.8g.",
+      "sodio": "30mg"
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -149,19 +218,29 @@
   },
   {
     "id": "8",
-    "pageId": "zanahoria-con-chile",
+    "pageId": "zanahoria-enchilada",
     "tipoProducto": "chips",
-    "tipoProducto2": "enchilado",
-    "productoNombre": "Zanahoria con chile",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "tipoProducto2": "enchilados",
+    "productoNombre": "Chips deshidratadas de Zanahoria enchilada",
+    "desc": "Botana preparada con: Zanahoria deshidratada, aceite de soya, sal y chile.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/r558H1P.jpg",
     "imgC": [
       "https://i.imgur.com/r558H1P.jpg",
       "https://i.imgur.com/yqAR6xZ.jpg",
+      "https://i.imgur.com/bhaDjyd.png",
       "https://i.imgur.com/5aoIe5B.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1",
+      "contenidoEner": "65 kcal",
+      "proteinas": "0.7g.",
+      "grasas": "5.5g. de las cuales 0.8g. de grasas saturadas",
+      "carbo": "1.9g. de las cuales 1.7g. de azúcares.",
+      "fibra": "0.2g.",
+      "sodio": "41mg"
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -170,18 +249,28 @@
   },
   {
     "id": "9",
-    "pageId": "jicama-con-chile",
+    "pageId": "jicama-adobada",
     "tipoProducto": "chips",
-    "tipoProducto2": "enchilado",
-    "productoNombre": "Jicama con chile",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "tipoProducto2": "enchilados",
+    "productoNombre": "Chips deshidratadas de Jícama Adobada",
+    "desc": "Botana preparada con: Jícama, mezcla de adobos y aceite de coco.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/ld4gDWW.jpg",
     "imgC": [
       "https://i.imgur.com/ld4gDWW.jpg",
+      "https://i.imgur.com/uwN1nny.png",
       "https://i.imgur.com/rkFooPB.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1",
+      "contenidoEner": "76 kcal",
+      "proteinas": "1g.",
+      "grasas": "4g. de las cuales 1g. de grasas saturadas",
+      "carbo": "9g. de las cuales 0g. de azúcares.",
+      "fibra": "6g.",
+      "sodio": "107mg"
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."
@@ -192,16 +281,26 @@
     "id": "10",
     "pageId": "pepino-con-chile",
     "tipoProducto": "chips",
-    "tipoProducto2": "enchilado",
-    "productoNombre": "Pepino con chile",
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "tipoProducto2": "enchilados",
+    "productoNombre": "Chips deshidratadas de Pepino con chile",
+    "desc": "Botana preparada con: Pepino, mezcla de adobos y aceite de coco.",
     "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img": "https://i.imgur.com/uRNnam7.jpg",
     "imgC": [
       "https://i.imgur.com/uRNnam7.jpg",
+      "https://i.imgur.com/Ifco6iH.png",
       "https://i.imgur.com/nsioXn6.png"
     ],
-    "nutriF": [
+    "nutriF": {
+      "porcion": "1",
+      "contenidoEner": "85 kcal",
+      "proteinas": "0.5g.",
+      "grasas": "5g. de las cuales 0.7g. de grasas saturadas",
+      "carbo": "9g. de las cuales 8g. de azúcares.",
+      "fibra": "0.8g.",
+      "sodio": "1mg"
+    },
+    "tips": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 1.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 2.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua 3."

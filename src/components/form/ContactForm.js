@@ -1,21 +1,18 @@
 import React from "react";
 import useForm from "react-hook-form";
 
+import "./../../scss/forms.scss";
+
 export default function ContactForm() {
-  const { register, handleSubmit, watch, errors } = useForm();
+  const { register, handleSubmit, errors } = useForm();
   const onSubmit = data => {
     console.log(data);
   }; // your form submit function which will invoke after successful validation
 
-  console.log(watch("example")); // you can watch individual input by pass the name of the input
-  const mailRegex = /^(([^<>()[].,;:s@"]+(.[^<>()[].,;:s@"]+)*)|(".+"))@(([^<>()[].,;:s@"]+.)+[^<>()[].,;:s@"]{2,})$/;
   return (
     <div className="container">
       <h1 className="text-center">Formulario de Contacto</h1>
-      <form
-        method="POST"
-        action="https://formspree.io/itzelmilaneshernandez@gmail.com"
-      >
+      <form onSubmit={handleSubmit(onSubmit)}>
         <div className="form-group">
           <label>Nombre:</label>
           <input
