@@ -9,8 +9,8 @@ class Productos extends Component {
         <div>
           <Link to={"/productos/chips"}>
             <img
-              className="quarterImage"
-              src="https://cdn3.iconfinder.com/data/icons/design-n-code/100/272127c4-8d19-4bd3-bd22-2b75ce94ccb4-512.png"
+              className="quarterImage heartbeat"
+              src="https://i.imgur.com/Bem0sEb.png"
               alt="x"
             />
             <h1>Chips deshidratados</h1>
