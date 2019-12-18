@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 class Productos extends Component {
   render() {
@@ -7,14 +7,14 @@ class Productos extends Component {
       <div className="container text-center">
         <h1>Productos Natuba</h1>
         <div>
-          <Link to={"/productos/chips"}>
+          <NavLink to={"/productos/chips"}>
             <img
               className="quarterImage heartbeat"
               src="https://i.imgur.com/Bem0sEb.png"
               alt="x"
             />
             <h1>Chips deshidratados</h1>
-          </Link>
+          </NavLink>
           <p>
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -24,17 +24,16 @@ class Productos extends Component {
             pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
             culpa qui officia deserunt mollit anim id est laborum."
           </p>
-          <hr />
         </div>
         <div>
-          <Link to={"/productos/mix"}>
+          <NavLink to={"/productos/mix"}>
             <img
               className="quarterImage heartbeat"
               src="https://i.imgur.com/meT8DLM.png"
               alt="x"
             />
             <h1>Mix de frutas</h1>
-          </Link>
+          </NavLink>
           <p>
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -44,10 +43,9 @@ class Productos extends Component {
             pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
             culpa qui officia deserunt mollit anim id est laborum."
           </p>
-          <hr />
         </div>
         <div>
-          <Link to={"/productos/bowls"}>
+          <NavLink to={"/productos/bowls"}>
             {" "}
             <img
               className="quarterImage heartbeat"
@@ -55,7 +53,7 @@ class Productos extends Component {
               alt="x"
             />
             <h1>Bowl</h1>
-          </Link>
+          </NavLink>
           <p>
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim

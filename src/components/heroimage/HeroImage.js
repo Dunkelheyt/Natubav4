@@ -4,7 +4,7 @@ import logo from "./../../imgs/logo.png";
 class HeroImage extends Component {
   render() {
     return (
-      <div className="hero-image text-center">
+      <div className="hero-image text-center botBorder">
         <img
           alt="banner"
           className="img-fluid scale-in-hor-center"

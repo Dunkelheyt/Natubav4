@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 class HeaderContainer extends Component {
   render() {
@@ -12,22 +12,22 @@ class HeaderContainer extends Component {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
             <Nav.Link>
-              <Link to={"/"}>Home</Link>
+              <NavLink to={"/"}>Home</NavLink>
             </Nav.Link>
             <Nav.Link>
-              <Link to={"/conocenos"}>Conocenos</Link>
+              <NavLink to={"/conocenos"}>Conocenos</NavLink>
             </Nav.Link>
             <Nav.Link>
-              <Link to={"/productos"}>Productos</Link>
+              <NavLink to={"/productos"}>Productos</NavLink>
             </Nav.Link>
             <Nav.Link>
-              <Link to={"/ordenar"}>Ordenar</Link>
+              <NavLink to={"/ordenar"}>Ordenar</NavLink>
             </Nav.Link>
             <Nav.Link>
-              <Link to={"/contacto"}>Contacto</Link>
+              <NavLink to={"/contacto"}>Contacto</NavLink>
             </Nav.Link>
             <Nav.Link>
-              <Link to={"/encuentranos"}>Encuentranos</Link>
+              <NavLink to={"/encuentranos"}>Encuentranos</NavLink>
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>

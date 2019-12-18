@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 class ThumbProducto extends React.Component {
   render() {
@@ -13,10 +13,12 @@ class ThumbProducto extends React.Component {
               <img className="image rounded" src={info.img} alt="Testing" />
             </div>
             <div className="col-lg-8 col-md-12 col-sm-12">
-              <Link to={"/productos/" + info.tipoProducto + "/" + info.pageId}>
-                <h1 className="text-center"> {info.productoNombre}</h1>
+              <NavLink
+                to={"/productos/" + info.tipoProducto + "/" + info.pageId}
+              >
+                <h2 className="text-center"> {info.productoNombre}</h2>
                 <p>{info.desc}</p>
-              </Link>
+              </NavLink>
             </div>
           </div>
         </div>

@@ -2,7 +2,7 @@ import React from "react";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
 import Table from "react-bootstrap/Table";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 class DisplayProducto extends React.Component {
   render() {
@@ -51,7 +51,6 @@ class DisplayProducto extends React.Component {
               </p>
             </div>
           </div>
-          <hr />
           <h2 className="text-center">Información nutrimental:</h2>
           {info.nutriF.info1}
           <Table striped bordered hover responsive="true">
@@ -88,10 +87,9 @@ class DisplayProducto extends React.Component {
               </tr>
             </tbody>
           </Table>
-          <hr />
           <h1 className="text-center">Tips para preparar:</h1>
           <button type="button" class="btn btn-dark">
-            <Link to={"/ordenar"}>Ordenar</Link>
+            <NavLink to={"/ordenar"}>Ordenar</NavLink>
           </button>
         </div>
       </div>

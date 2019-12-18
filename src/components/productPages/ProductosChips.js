@@ -12,7 +12,7 @@ class ProductosChips extends Component {
   render() {
     return (
       <div>
-        <h1 className="text-center">Productos Chips Deshidratos</h1>
+        <h1 className="text-center">Productos Chips Deshidratados</h1>
         <p className="container">
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -22,7 +22,6 @@ class ProductosChips extends Component {
           pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
           culpa qui officia deserunt mollit anim id est laborum."
         </p>
-        <hr />
         <div className="row">
           {this.props.itemData.map(data => (
             <ThumbProducto key={data.id} info={data} />
