@@ -1,5 +1,6 @@
 //Variables
 $greenDeepColor: #008000;
+$redColor: red;
 
 @font-face {
   font-family: "BencoLeng";
@@ -7,6 +8,10 @@ $greenDeepColor: #008000;
     url("./../fonts/bencoleng-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
+}
+
+.lmao {
+  background-color: black;
 }
 
 p {
@@ -34,6 +39,10 @@ strong {
   color: $greenDeepColor;
 }
 
+.errorLetters {
+  color: $redColor;
+}
+
 h1 {
   color: $greenDeepColor;
   padding-top: 2rem;
@@ -58,6 +67,10 @@ h2:hover {
 .quarterImage {
   height: 25%;
   width: 25%;
+}
+
+.w100 {
+  width: 100%;
 }
 
 .w85 {

@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import ContactForm from "./ContactForm";
 import RedesSociales from "./../social/RedesSociales";
-
+import Form from "./Form";
+import Map from "./../map/MapContainer";
 class Contacto extends Component {
   render() {
     return (
@@ -20,14 +20,15 @@ class Contacto extends Component {
           </p>
           <div className="row">
             <div className="col-sm-12 col-md-6 col-lg-6 rightBorder">
-              <ContactForm />
+              <Form />
             </div>
             <div className="col-sm-12 col-md-6 col-lg-6">
               <RedesSociales />
             </div>
           </div>
-
           <hr />
+          <h2 className="text-center">Mapa</h2>
+          <Map />
         </div>
       </div>
     );

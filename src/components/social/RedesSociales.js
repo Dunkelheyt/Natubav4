@@ -4,7 +4,7 @@ class RedesSociales extends Component {
   render() {
     return (
       <div className="container text-center">
-        <h1>Redes Sociales</h1>
+        <h2>Redes Sociales</h2>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
           varius urna faucibus nisi mollis, in ultrices nibh aliquam. Vestibulum
